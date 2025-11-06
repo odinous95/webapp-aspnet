@@ -26,3 +26,4 @@
 /Users/mjdthif/Desktop/WebApp.Dotnet/obj/Debug/net10.0/WebApp.Dotnet.pdb
 /Users/mjdthif/Desktop/WebApp.Dotnet/obj/Debug/net10.0/WebApp.Dotnet.genruntimeconfig.cache
 /Users/mjdthif/Desktop/WebApp.Dotnet/obj/Debug/net10.0/ref/WebApp.Dotnet.dll
+/Users/mjdthif/Desktop/WebApp.Dotnet/obj/Debug/net10.0/WebApp.Dotnet.sourcelink.json
